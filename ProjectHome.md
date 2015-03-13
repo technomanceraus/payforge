@@ -1,0 +1,1 @@
+We want to create the fastest payroll engine the world has ever seen. The current version of our test of concept for payforge engine can process about 1,000,000 employees with about 15 - 20 pay elements in around 30 seconds !
